@@ -1,5 +1,3 @@
-Week 1
-######
 Homework 1.1
 ----
 Answer: 
